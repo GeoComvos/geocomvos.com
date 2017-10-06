@@ -7,9 +7,8 @@ title: GeoComvos Ltd
 email: geocomvos@gmail.com
 author: GeoComvos Ltd
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+  Geocomvos is a technical consultancy specializing in the development,
+  deployment of Free and Open Source Software for Geospatial (FOSS4G).
 copyright: 'Copyright &copy; 2017 GeoComvos Ltd. All Rights Reserved.'
 credits: 'Credits: Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
