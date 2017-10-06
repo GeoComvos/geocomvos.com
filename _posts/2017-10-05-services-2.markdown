@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: pycsw_monitor.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: pycsw Development
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  [pycsw](http://pycsw.org) pycsw is an OGC CSW server implementation written in Python. pycsw allows for the publishing and discovery of geospatial metadata via numerous APIs (CSW 2/CSW 3, OpenSearch, OAI-PMH, SRU), providing a standards-based metadata and catalogue component of spatial data infrastructures. We offer core development services for your needs.
