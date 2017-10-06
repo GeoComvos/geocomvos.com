@@ -5,4 +5,4 @@ category: Services
 title: pycsw Development
 description: |
 ---
-  [pycsw](http://pycsw.org) pycsw is an OGC CSW server implementation written in Python. pycsw allows for the publishing and discovery of geospatial metadata via numerous APIs (CSW 2/CSW 3, OpenSearch, OAI-PMH, SRU), providing a standards-based metadata and catalogue component of spatial data infrastructures. We offer core development services for your needs.
+  [pycsw](http://pycsw.org) is an OGC CSW server implementation written in Python. pycsw allows for the publishing and discovery of geospatial metadata via numerous APIs (CSW 2/CSW 3, OpenSearch, OAI-PMH, SRU), providing a standards-based metadata and catalogue component of spatial data infrastructures. We offer core development services for your needs.
