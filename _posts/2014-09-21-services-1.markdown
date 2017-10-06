@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: geonode_laptop.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: GeoNode Development
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  [GeoNode](http://geonode.org) is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI). We offer core development and customization services for your needs.
